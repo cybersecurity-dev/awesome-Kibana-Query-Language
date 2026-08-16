@@ -1,6 +1,6 @@
 <div align="center">
 
-# **`Awesome`** Kusto Query Language (KQL) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** Kibana Query Language (KQL) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
@@ -15,3 +15,35 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+## 📖 Contents
+- [Resources](#resources)
+    - [Books](#books)
+    - [Videos](#videos)
+    - [Certifications](#certifications)
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+
+## Resources
+
+### Books
+
+### Videos
+
+### Certifications
+
+##
+
+### My Other Awesome Lists
+You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
+
+### Contributing
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-Kibana-Query-Language/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+[🔼 Back to top](#awesome-kibana-query-language-kql-)
